@@ -1,0 +1,9 @@
+﻿{
+  "sprite": [
+    {
+      "name": "Ball",
+      "textures": 5, //number of texture total
+      "animation_speed": 7 //1 to 10
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+	"maps": [
+		{
+			"id": 0,
+			"player": [ 0, 0, 1 ],
+			"name": "Tutoriel",
+			"file": "Tutorial"
+		},
+		{
+			"id": 1,
+			"player": [ 1, 1, 1 ],
+			"name": "Tutoriel 2",
+			"file": "Tutorial2"
+		}
+	]
+}
